@@ -1,0 +1,8 @@
+
+terraform.tfvars
+.terraform/
+graphviz Apply.svg
+graphviz graphviz Apply.png
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
